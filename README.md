@@ -1,5 +1,5 @@
 # svelte-color-theme README
-
+# this is a vscode sveltkit inspired theme
 ## Working with Markdown
 
 You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
