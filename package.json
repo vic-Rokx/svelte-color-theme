@@ -1,0 +1,21 @@
+{
+  "name": "svelte-color-theme",
+  "displayName": "Svelte color theme",
+  "description": "svelte color theme for vscode similar to docs",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.82.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Svelte Color Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Svelte Color Theme-color-theme.json"
+      }
+    ]
+  }
+}
