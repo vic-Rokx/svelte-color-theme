@@ -2,7 +2,12 @@
   "name": "svelte-color-theme",
   "displayName": "Svelte color theme",
   "description": "svelte color theme for vscode similar to docs",
-  "version": "0.0.1",
+	"version": "1.0.0",
+	"publisher": "VicRokx",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/vic-Rokx/svelte-color-theme.git"
+	},
   "engines": {
     "vscode": "^1.82.0"
   },
